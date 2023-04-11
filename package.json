@@ -1,0 +1,29 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Rest api with node express morgan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exxedridel/rest-api.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Express",
+    "Morgan"
+  ],
+  "author": "Heved Rios <exxed.ridel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exxedridel/rest-api/issues"
+  },
+  "homepage": "https://github.com/exxedridel/rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
